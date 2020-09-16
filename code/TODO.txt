@@ -1,0 +1,7 @@
+Steps:
+
+1. How to run the pipeline?
+2. How to run individual steps (generation, evaluation, plotting)
+3. How to run a particular sampling schedule?
+
+4. Blog post!
