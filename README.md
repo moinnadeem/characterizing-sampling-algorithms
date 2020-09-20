@@ -2,7 +2,7 @@
 
 <p align="center"><img src="comparison.png" alt="A Comparison of Sampling Algorithms" width="75%" /></p>
      
-This repository contains the official implementation of *"A Systematic Characterization on Sampling Methods for Open-ended Language Generation"*, to appear at AACL 2020. 
+This repository contains the official implementation of *["A Systematic Characterization on Sampling Methods for Open-ended Language Generation"](https://arxiv.org/abs/2009.07243)*, to appear at AACL 2020. 
 It also serves as an extensible codebase to design and evaluate various sampling algorithms. We encourage the use of this codebase to design novel sampling algorithms.
 
 ## Getting Started
